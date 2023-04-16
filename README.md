@@ -14,7 +14,7 @@
 
 # Introduction
 
-Study.io is an application used to connect users who share similar learning objectives. A user can chose from a variety of topics and either navigate to a pre-existing room or create a new one. Once in a room, the user is able to chat with other room members, asking or giving help, drop learning materials into a group stroage for all other members to access, or even set up events or goals.
+Study.io is an application used to connect users who share similar learning objectives. A user can choose from a variety of topics and either navigate to a pre-existing room or create a new one. Once in a room, the user is able to chat with other room members, asking or giving help, drop learning materials into a group storage for all other members to access, or even set up events or goals.
 
 # Technologies
 
