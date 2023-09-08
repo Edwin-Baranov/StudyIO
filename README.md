@@ -18,7 +18,7 @@ Study.io is an application used to connect users who share similar learning obje
 
 # Technologies
 
-#### Front-End
+### Front-End
 - Node.js
 - Express
 - React
@@ -38,17 +38,18 @@ Study.io is an application used to connect users who share similar learning obje
 - Jest
 - Msw (mocking / catching requests)
 
-#### Back-End
+### Back-End
 - Node.js
 - Express
 - PostgreSQL
 - Cors
 - pg
 
-**Testing Libraries:**
+##### Testing Libraries:
 - Jest
 - Supertest
-- Deployment
+
+##### Deployment
 - AWS EC2 instances
 - Docker or AMI (AWS)
 - AWS Load Balancers
